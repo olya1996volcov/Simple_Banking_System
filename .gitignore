@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/Application as a class/out/
+/Problems/Application as a class/out/production/classes/
+/Problems/Area of parallelogram/out/
+/Problems/Area of parallelogram/out/production/classes/
+/Problems/Basic calculator/out/
+/Problems/Basic calculator/out/production/classes/
+/Problems/Call me awesome/out/
+/Problems/Call me awesome/out/production/classes/
+/Problems/Gaussian random numbers/out/
+/Problems/Gaussian random numbers/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/out/test/classes/

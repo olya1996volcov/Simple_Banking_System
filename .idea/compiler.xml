@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Adding_values_main" target="11" />
+      <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Advanced_calculator_main" target="11" />
+      <module name="Problems-Advanced_calculator_test" target="11" />
+      <module name="Problems-Application_as_a_class_main" target="11" />
+      <module name="Problems-Application_as_a_class_test" target="11" />
+      <module name="Problems-Area_of_parallelogram_main" target="11" />
+      <module name="Problems-Area_of_parallelogram_test" target="11" />
+      <module name="Problems-Basic_calculator_main" target="11" />
+      <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Call_me_awesome_main" target="11" />
+      <module name="Problems-Call_me_awesome_test" target="11" />
+      <module name="Problems-Gaussian_random_numbers_main" target="11" />
+      <module name="Problems-Gaussian_random_numbers_test" target="11" />
+      <module name="Problems-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Parameters_and_their_values_main" target="11" />
+      <module name="Problems-Parameters_and_their_values_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
+      <module name="Problems-The_sign_of_a_number_main" target="11" />
+      <module name="Problems-The_sign_of_a_number_test" target="11" />
+      <module name="Simple_Banking_System-task_main" target="11" />
+      <module name="Simple_Banking_System-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
